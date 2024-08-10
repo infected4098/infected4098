@@ -1,5 +1,6 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72F13&background=B0FF4400&width=435&lines=Welcome+to+Yong+Joon+Lee's+github!" alt="Typing SVG" /></a>
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=Yong%20Joon%20Lee&desc=Researcher&descAlignY=80&fontSize=40&animation=twinkling)
+
 
 
 HI. This is YONG JOON LEE. @infected4098. 
