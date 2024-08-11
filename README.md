@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F513&background=B0FF4400&width=435&lines=Welcome+to+Yong+Joon+Lee's+github!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F513&background=B0FF4400&width=435&lines=Welcome+to+Yong+Joon+Lee's+Github!)](https://git.io/typing-svg)
 
 [![infected4098's GitHub stats](https://github-readme-stats.vercel.app/api?username=infected4098)](https://github.com/anuraghazra/github-readme-stats)
 
