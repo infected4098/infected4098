@@ -10,5 +10,5 @@
 
 
 HI. This is YONG JOON LEE. @infected4098. 
-I'm a senior student majoring in statistics in Korea University, Seoul, South Korea. My research topic broadly lies in Audio Super Resolution, Speech Recognition, Audio Representation. I am currently interested in designing audio specific network that does not need Mel representation. 
+I'm a senior student majoring in statistics in Korea University, Seoul, South Korea. My research topic broadly lies in Audio Super Resolution, Speech Recognition, Audio Representation. I am currently interested in designing audio specific network that does not need Mel representation. For collaborations or discussions you can contact me at `yongjoonlee@kaist.ac.kr`. 
 
