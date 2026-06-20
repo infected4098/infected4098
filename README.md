@@ -8,6 +8,3 @@
 
 
 
-HI. This is YONG JOON LEE. @infected4098. 
-I'm a senior student majoring in statistics in Korea University, Seoul, South Korea. My research topic broadly lies in Audio Super Resolution, Speech Enhancement and Speech Generation. For collaborations or discussions you can contact me at `yongjoonlee@kaist.ac.kr`. 
-
